@@ -197,7 +197,7 @@ This is against common wisdom that DPR is a state-of-the-art retriever. Hence, i
 
 2. What is a good answer span?
 
-This is a crucial question as question answering relies on a good answer span. Economic and financial texts have a short to medium length in comparison to legal texts. Therefore, it would be interesting to see whether a reader that returns the whole sentence, that contains the answer, would perform better. This approach is practical as end-user which pose the query would be willing to read a short or medium long sentence that satisfies their information need. This approach was suggested by Prof. Gertz after discussing the difficulties of finding a good answer span on yes and no questions. Personally, I believe that this approach is the most promising to answer yes and no questions given that they contain a higher information density which needs to be validated or invalidated.
+This is a crucial question as question answering relies on a good answer span. Economic and financial texts have a short to medium length in comparison to legal texts. Therefore, it would be interesting to see whether a reader that returns the whole sentence, that contains the answer, would perform better. This approach is practical as end-user which pose the query would be willing to read a short or medium long sentence that satisfies their information need. This approach was suggested by my superviser after discussing the difficulties of finding a good answer span on yes and no questions. Personally, I believe that this approach is the most promising to answer yes and no questions given that they contain a higher information density which needs to be validated or invalidated.
 
 3. How could we improve question generation pipelines?
 
